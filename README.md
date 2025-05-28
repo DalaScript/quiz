@@ -2,7 +2,7 @@
 
 **Project 9/20**
 
-**In Process!!!***
+A responsive and accessible HTML/CSS quiz form 📝 built as part of the freeCodeCamp Responsive Web Design Certification. This project focuses on structuring content with semantic HTML, using accessibility attributes, and designing a user-friendly form layout. Fully responsive and keyboard-navigable ✅.
 
 ---
 
@@ -27,25 +27,44 @@
 
 ### 📸 Screenshot
 
-**In Process!!!***
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
-**In Process!!!***
+ - [🔴 Live Demo](https://dalascript.github.io/quiz/)
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/quiz)
 
 ### 📌 Features
 
-**In Process!!!***
+ - ✅ Semantic HTML with proper headings, labels, and sections
+ - ✅ Accessible design using `aria` attributes and `role="region"`
+ - ✅ Visually hidden text for screen readers (`.sr-only`)
+ - ✅ Responsive navigation and layout
+ - ✅ Form elements with validation and structure
 
 ## 🧠 My Process
 
 ### 🛠️ Built with
 
-**In Process!!!***
+ - HTML5
+ - CSS3
+ - Accessibility features
 
 ### 🎓 What I Learned
 
-**In Process!!!***
+ - How to create accessible forms using ARIA roles and proper labels
+ - Best practices for semantic HTML structure
+ - Styling forms and inputs for better UX
+ - Using visually hidden content for screen readers
+ - Building responsive layouts with fixed headers and flexible content
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
 
 ### 🔙 Previous Project
 
